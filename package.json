@@ -1,0 +1,14 @@
+{
+  "name": "bio",
+  "version": "1.0.0",
+  "description": "This is a bio account",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "presh",
+  "license": "ISC",
+  "dependencies": {
+    "uuid": "^9.0.0"
+  }
+}
